@@ -1,5 +1,4 @@
 // Take 3 side and check it  forms a valid Triangle 
-
 let a = 3;
 let b = 2;
 let c = 5;
