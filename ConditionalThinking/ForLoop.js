@@ -1,5 +1,5 @@
 //  Print number ffrom 1 to 10 
 
-for(i=0; i >= 10 ;i++){
-    console.log(i);
+for(let i=0; i <=10 ;i++){
+    console.log("The Number for 1 to 10 are :",i);
 }
